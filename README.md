@@ -45,11 +45,5 @@ Do you want to start again? (yes/no): no
 Thank you for using Countdown Timer!
 ```
 
-## 🎯 Learning Outcomes
-- Practised Python loops and conditions.
-- Learned exception handling.
-- Understood the use of the time module.
-- Improved input validation skills.
-
 ## 👩‍💻 Author
 Riddhi Deshmukh
